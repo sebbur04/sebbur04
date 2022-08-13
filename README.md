@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sebbur04
-- 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...HTML and CSS
+- 👀 I’m interested in ...Coding, Photography and Visual Design
+- 🌱 I’m currently learning ...HTML CSS and Javascript
 - 💞️ I’m looking to collaborate on ...Github & VS Code
 - 📫 How to reach me ...by sending an email
 
