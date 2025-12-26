@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebbur04&show_icons=true&theme=tokyonight)
 
 - 👋 Hi, I’m @sebbur04 - Sebastian
 - 👀 I’m interested in ...Coding, Cybersecurity, Technology and Visual Design
