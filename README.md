@@ -2,7 +2,7 @@
 
 - 🔭 **Interests:** Coding, Cybersecurity, Network technology and Incident management & response.
 - 🌱 **Currently studying:** Master of science (M.Sc) in Digital Infrastructure and Cybersecurity at NTNU Trondheim 
-- 📫 **Reach me:** [sebastian@burmo.com](mailto:your.email@example.com)
+- 📫 **Reach me:** [sebastian@burmo.com](mailto:sebastian@burmo.no)
 
 ---
 # My tech stack
