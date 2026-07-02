@@ -1,11 +1,11 @@
-### Hi there, I'm Sebastian 👋 <br/> <sub>@sebbur04</sub>
+## Hi there, I'm Sebastian 👋 <br/> <sub>@sebbur04</sub>
 
 - 🔭 **Interests:** Coding, Cybersecurity, Network technology and Incident management & response.
 - 🌱 **Currently studying:** Master of science (M.Sc) in Digital Infrastructure and Cybersecurity at NTNU Trondheim 
 - 📫 **Reach me:** [sebastian@burmo.com](mailto:sebastian@burmo.no)
 
 ---
-# My tech stack
+### My tech stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
